@@ -1,0 +1,8 @@
+Credits:
+
+heart sprite - https://gamedevshlok.itch.io/heartpack
+touhou character sprites - https://code-farmer.itch.io/touhou-pixe-characters
+game over image - https://www.freepik.com/free-vector/game-pixelated-background_928833.htm#fromView=search&page=1&position=47&uuid=1ccce0fe-9dfa-411b-9a77-794df257e835
+8-bit sounds - https://freesound.org/people/LittleRobotSoundFactory/packs/16681/
+you win image - https://pngtree.com/freepng/game-over-with-yellow-trophy-pixel-style-vector_5995249.html
+

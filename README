@@ -1,0 +1,30 @@
+# Touhou Mini Air-Fighter Game
+
+## Setting up
+- Clone this repo
+- Add and open this project in Unity Hub
+- In the unity editor, click the Run button (top center of the screen)
+
+### Objects
+- player
+- enemy
+- goon1
+- goon2
+
+### Behaviour & Controls
+- player can move horizontally with left and right arrow keys (or a and d)
+- player can shoot orbs upwards by pressing c (or mouse 0)
+- enemies move horizontally in a back-and-forth pattern
+- main enemy shoots a spray of orbs at fixed intervals
+- goons shoot a single orb downwards at fixed intervals
+
+### Scoring
+- hitting enemies with orb does damage
+- when enemies run out of health, they die and give you score
+- when you score, a sound effect is played
+- score is displayed in the bottom left corner
+
+### Win & Lose Conditions
+- if all enemies die, you win the game and a win screen is shown
+- every time u get hit, u lose a heart and a hit sound is played
+- if you lose all hearts, you lose the game and a loss screen is shown

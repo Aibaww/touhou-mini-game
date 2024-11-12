@@ -1,0 +1,9 @@
+Library/
+Logs/
+obj/
+.vsconfig
+Assembly-Csharp.csproj
+Freestyle.sln
+*.zip
+.suo
+DocumentLayout.json
